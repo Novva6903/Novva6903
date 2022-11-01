@@ -1,8 +1,9 @@
 ### Hi there, I'm Nyoman Wira 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=novva6903&show_icons=true&theme=transparent" align=left>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novva6903&layout=compact">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=novva6903&show_icons=true&theme=transparent" align=left>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novva6903&layout=compact">
+</div>
 
 ### Languages I use
 
