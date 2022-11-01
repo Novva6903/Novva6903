@@ -1,5 +1,5 @@
 ### Hi there, I'm Nyoman Wira!
-- 🌱 I'm currently studying in Bina Nusantara University
+- 🌱 I'm currently studying in Bina Nusantara University (2nd Year)
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=novva6903&show_icons=true&theme=transparent">
