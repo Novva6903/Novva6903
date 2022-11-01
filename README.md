@@ -1,8 +1,10 @@
-### Hi there, My Name is Nyoman Wira 👋
+### Hi there, I'm Nyoman Wira 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=novva6903&show_icons=true&theme=transparent" align=left>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novva6903&layout=compact" align=left>
+
+### Languages I use
 
 <!--
 **Novva6903/Novva6903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
