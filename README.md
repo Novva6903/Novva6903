@@ -25,6 +25,12 @@
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
+### Databases I Know:
+
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
 ### Editor I Use:
 
 <div style="display: flex;">
