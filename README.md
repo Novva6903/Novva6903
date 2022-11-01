@@ -27,8 +27,8 @@
 ### You can find me on:
 
 <div style="display: flex;">
-  <a href="https://www.instagram.com/novva_693/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/nyoman-wira-dhimas-arya-dhanendra-5a26a516a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/novva_693/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nyoman-wira-dhimas-arya-dhanendra-5a26a516a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <!--
