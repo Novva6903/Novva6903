@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novva6903&layout=compact&theme=transparent">
 </div>
 
-### Languages I use:
+### Languages I know:
 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -18,13 +18,13 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
 
-### Editor I use:
+### Editor I Use:
 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
-### Frameworks I use:
+### Frameworks I know:
 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
