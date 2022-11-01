@@ -1,5 +1,7 @@
-### Hi there, I'm Nyoman Wira 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10%">
+<div style="display: flex;">
+  ### Hi there, I'm Nyoman Wira 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5%">
+</div>
 - 🌱 I'm currently studying in Bina Nusantara University
 
 <div style="display: flex;">
