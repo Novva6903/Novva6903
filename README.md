@@ -1,8 +1,8 @@
 ### Hi there, My Name is Nyoman Wira 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novva6903&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=novva6903&show_icons=true&theme=transparent">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novva6903&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novva6903&layout=compact">
 
 <!--
 **Novva6903/Novva6903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
