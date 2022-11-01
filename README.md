@@ -20,6 +20,17 @@
 
 ### Editor I use:
 
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</div>
+
+### You can find me on:
+
+<div style="display: flex;">
+  <a href="https://www.instagram.com/novva_693/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nyoman-wira-dhimas-arya-dhanendra-5a26a516a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
 <!--
 **Novva6903/Novva6903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
